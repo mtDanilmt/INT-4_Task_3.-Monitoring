@@ -2,4 +2,5 @@
 Этот репозиторий для третьего задания DevOps. Monitoring
 
 
+![Alt-текст](images/grafana_image.jpg)
 
