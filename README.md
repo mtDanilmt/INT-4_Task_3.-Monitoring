@@ -34,6 +34,7 @@ admin
 
 3. Пройти по Dashbord'у "Проверка доступности PT"
 
+#### Там увидите следующее:
 
 ![Alt-текст](images/grafana_image.jpg)
 
