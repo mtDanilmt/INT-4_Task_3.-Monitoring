@@ -5,14 +5,10 @@
 
 Для запуска мониторинга неоходимо установить Docker и Docker Compose:
 
-[![Docker Logo](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png) Установка на Debian](https://docs.docker.com/engine/install/debian/)
-
-[Установка на Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
-
-
-
-[![GitHub Logo](https://github.com/favicon.ico)](https://github.com)
-
+<a href="https://docs.docker.com/engine/install/debian/">
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker Logo" width="100"/>
+    Установка на Debian
+</a>
 
 
 
