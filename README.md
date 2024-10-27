@@ -3,7 +3,7 @@
 
 ## Запуск и просмотр:
 
-Для запуска мониторинга неоходимо установить Docker и Docker Compose:
+Для запуска мониторинга необходимо установить Docker и Docker Compose:
 
 <a href="https://docs.docker.com/engine/install/debian/">
     <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker Logo" width="25"/>
@@ -14,7 +14,7 @@
     Установка на Ubuntu
 </a>
 
-Запуск необходимо производить в корнейвой директории проекта командой: 
+Запуск необходимо производить в корневой директории проекта командой: 
 
 ```
 sudo docker-compose up -d
@@ -32,7 +32,7 @@ http://localhost:3000
 admin
 ```
 
-3. Пройти по Dashbord'у "Проверка доступности PT"
+3. Перейти к панели 'Проверка доступности PT
 
 #### Там увидите следующее:
 
